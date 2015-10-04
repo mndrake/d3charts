@@ -91,7 +91,7 @@ circle.loss{
   /*font-size: 12px;*/
 /*}*/
 
-#probe{
+.probe{
   position: absolute;
   background-color: white;
   border: 1px solid #ccc;
@@ -104,11 +104,11 @@ circle.loss{
   box-shadow: 0 0 5px 0 rgba(0,0,0,0.25);
 }
 
-#probe strong{
+.probe strong{
   font-size: 16px;
 }
 
-#probe span{
+.probe span{
   color: #999;
 }
 
@@ -134,18 +134,18 @@ h2{
   color: #999;
   margin: 15px;
 }
-#intro{
-  width: 800px;
-  margin: auto;
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px;
-}
+/*#intro{*/
+/*  width: 800px;*/
+/*  margin: auto;*/
+/*  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px;*/
+/*}*/
 
-#source{
-  color: #999;
-  font-size: 12px;
-  margin-left: 60px;
-  margin-top: 20px;
-}
+/*#source{*/
+/*  color: #999;*/
+/*  font-size: 12px;*/
+/*  margin-left: 60px;*/
+/*  margin-top: 20px;*/
+/*}*/
 
 /*#axis-maps{*/
   /*float: right;*/

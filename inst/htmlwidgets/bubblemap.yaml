@@ -11,3 +11,7 @@ dependencies:
   version: 0.0.0
   src: htmlwidgets
   style: bubblemap.css
+- name: shapes
+  version: 0.0.0
+  src: htmlwidgets/lib/shapes
+  attachment: {"states": 'states.json'}
