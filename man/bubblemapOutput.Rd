@@ -4,7 +4,7 @@
 \alias{bubblemapOutput}
 \title{Widget output function for use in Shiny}
 \usage{
-bubblemapOutput(outputId, width = "100\%", height = "400px")
+bubblemapOutput(outputId, width = "100\%", height = "600px")
 }
 \description{
 Widget output function for use in Shiny

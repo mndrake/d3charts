@@ -4,7 +4,7 @@
 \alias{bubblemap}
 \title{<Add Title>}
 \usage{
-bubblemap(message, width = NULL, height = NULL)
+bubblemap(data, width = 960, height = 600)
 }
 \description{
 <Add Description>

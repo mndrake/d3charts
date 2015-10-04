@@ -1,10 +1,10 @@
 Package: d3charts
 Type: Package
-Title: What the Package Does (Title Case)
+Title: D3 Charts for R
 Version: 0.1
 Date: 2015-10-04
 Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Maintainer: Dave Carlson <mndrake22@mac.com>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: MIT
 LazyData: TRUE
