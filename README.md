@@ -1,6 +1,6 @@
 # d3charts
-D3 based visuals for use in R
+D3 Visualizations for R
 
-Visuals:
+Contents
 
-- bubble map - United States
+- bubblemap (based on http://nygeog.github.io//2015/03/06/d3-mapping-with-flu-data.html)
