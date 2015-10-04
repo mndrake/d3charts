@@ -5,7 +5,7 @@
 #' @import htmlwidgets
 #'
 #' @export
-bubblemap <- function(data, width = NULL, height = NULL) {
+bubblemap <- function(data, width = 960, height = 600) {
 
   # forward options using x
   x = list(
@@ -25,7 +25,7 @@ bubblemap <- function(data, width = NULL, height = NULL) {
 #' Widget output function for use in Shiny
 #'
 #' @export
-bubblemapOutput <- function(outputId, width = '100%', height = '400px'){
+bubblemapOutput <- function(outputId, width = '100%', height = '600px'){
   shinyWidgetOutput(outputId, 'bubblemap', width, height, package = 'd3charts')
 }
 

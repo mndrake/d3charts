@@ -13,7 +13,7 @@ HTMLWidgets.widget({
   renderValue: function(el, x, instance) {
 
     // hack for now, need to separate map initialization and data population
-    $(el).empty()
+    d3.select(el).empty()
 
     var states = HTMLWidgets.getAttachmentUrl('shapes', 'states'),
         data = HTMLWidgets.dataframeToD3(x.data),
